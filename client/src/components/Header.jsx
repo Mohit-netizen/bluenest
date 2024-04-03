@@ -1,5 +1,7 @@
 import {FaSearch} from 'react-icons/fa';
 import { Link } from 'react-router-dom';
+import toast, { Toaster } from 'react-hot-toast';
+
 
 export default function Header() {
   return (
